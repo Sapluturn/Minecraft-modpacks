@@ -1,0 +1,186 @@
+================================================================
+Wander & Feast
+Minecraft 1.21.1 / NeoForge
+================================================================
+
+    What the player meets first is a rearranged landscape. Tectonic gives
+the ridgelines real layering, cuts river valleys through the plateaus and
+lets peaks rise under the cloud line. Biomes come from Biomes O' Plenty and
+vanilla together: maple woods, lavender fields, hot springs, jacaranda
+glades, redwood forests and seasonal woodland on one map. Villages and
+temples are joined by roads laid down by RoadWeaver, with the ten YUNG
+structure overhauls - dungeons, mineshafts, strongholds, ocean monuments,
+jungle and desert temples, witch huts, nether fortresses, end islands and
+villages - distributed along them; Better Village and TerraBlender handle
+village placement and biome transition. Back at the house the rhythm changes
+entirely: the Kaleidoscope stove, steamer, wok and grill, the Farmer's
+Delight pot and its recipes, the maids on the veranda, the orchard and
+fields of Biomes O' Plenty, Alex's Mobs and Alex's Delight carrying game
+into the kitchen, Butchery Lite breaking carcasses into materials. Travel is
+handled by Automobility cars, Fish and Ships sailboats and trawlers,
+Immersive Aircraft; ranged combat by Launchers And Arrows; supply by Lite
+Exchange. On screen, Sodium, Sodium Extra, Iris, Photon shaders and Voxy LOD
+carry the picture, with Lithium, FerriteCore, ModernFix and a set of fix
+mods underneath. These mods are not a pile of separate parts; in the same
+world they connect to one another.
+
+    You follow a stone-brick path into the valley. Redwood trunks stand on
+either side, sunlight comes down through the leaves and lays narrow shadows
+across the bricks. At the end of the path is a village, its roof tiles new,
+the waystone at the gate not yet lit; farther in, a mineshaft mouth opens in
+the slope, old rope hanging from its timber frame, the shaft dropping into
+black. You pull the map back and the roads join into a net - north to the
+snowfields, east to the volcano, south to a valley full of jacaranda. At
+dusk you are home: the stove is still burning, the steamer is throwing white
+steam, a maid is gathering vegetables in the yard, and the fish on the rack
+catch a film of oil in the firelight. Tomorrow you mean to walk the path you
+have not walked yet, and see where it goes.
+
+    The pack ships in three editions:
+
+    Wander & Feast: Homesteaded      110 mods
+    Wander & Feast: Expedition       107 mods
+    Wander & Feast: Confluence       121 mods
+
+----------------------------------------------------------------
+Wander & Feast: Homesteaded
+----------------------------------------------------------------
+
+    This edition draws the world back to the yard and the stove. Tectonic
+tightens the terrain: ridges no longer run straight into the clouds, and the
+valleys and gentle slopes are left for fields and houses. Biomes O' Plenty
+disables the grimmer and more intrusive biomes and keeps what can be farmed,
+lived in or looked at, with biomes packed closer together so that a few
+minutes of walking takes you from maple woods to lavender fields. Structures
+are not tuned for thrills; villages are the main landmarks, and mineshafts
+and dungeons stay nearby without demanding a descent. Cooking is the spine of
+the edition: Kaleidoscope Cookery, Chinese Food, Orchard, Tavern, End and
+Nether form a complete production line - the orchard supplies, the tavern
+absorbs, the maids restock and serve. Cars and boats are for carrying the
+harvest home, not for long journeys. It suits players who want to live out
+their days in one place.
+
+    Mod list: Kaleidoscope Cookery, Chinese Food, Orchard, Tavern, End,
+    Nether, Grilling, Doll, Compat; Touhou Little Maid, Mobile Beacon, Maid
+    Restaurant, Restaurant Storage, Personality, Love & Loathe; Biomes O'
+    Plenty, Tectonic, Better Village, TerraBlender, RoadWeaver, YUNG's Better
+    Jungle Temples, Ocean Monuments, Mineshafts, End Island, Desert Temples,
+    Nether Fortresses, Strongholds, Witch Huts and Menu Tweaks; JEI, Xaero's
+    Minimap and World Map, Jade, Forgematica, Waystones, Nature's Compass,
+    Explorer's Compass, Traveler's Titles; Automobility, Fish and Ships;
+    Sodium, Sodium Extra, Iris, Voxy, Voxy World Gen, Lithium, FerriteCore,
+    ModernFix, Dynamic FPS, EntityCulling, ImmediatelyFast, MoreCulling,
+    AllTheLeaks, PacketFixer, K Multi Threading; AmbientSounds, Presence
+    Footsteps, 3D Skin Layers, Controlling, IMBlocker, Simple Voice Chat,
+    AppleSkin, Smooth Swapping, ItemPhysic Lite, Inventory Profiles Next,
+    Mouse Tweaks, KleeSlabs, Better Climbing, Nether Portal Fix, Clumps, Tree
+    Harvester, AlwaysEat, Mod Menu, Global Packs, YungsExtras,
+    ContinuityNeoForge, DMMTTBA, durabilitytooltip, entityguardian,
+    getittogetherdrops, ok_zoomer, tweakerge, tweakable_xp_loss, butchery_lite,
+    touhou_little_maid_personality, maid_restaurant_storage, NeoForgematicaPrinter,
+    oneenoughitem.
+
+    Another 22 support libraries and prerequisites sit alongside them.
+
+----------------------------------------------------------------
+Wander & Feast: Expedition
+----------------------------------------------------------------
+
+    This edition pushes the rhythm out onto the road. Tectonic keeps its
+higher cap and greater relief: peaks, ravines, volcanoes, wastelands and cold
+deserts all remain, and the elevation itself is the reason to travel. Biomes
+O' Plenty keeps every biome, so a single journey can pass through maple
+woods, redwood forests, hot springs and cold desert. The ten YUNG structure
+overhauls are denser and more widely spread - mineshafts, strongholds, ocean
+monuments, jungle and desert temples, witch huts, nether fortresses, end
+islands and villages form a net across the map, with RoadWeaver laying roads
+between them so that driving has direction. Combat and hunting are the
+spine: Alex's Mobs adds a large roster of creatures, Alex's Delight carries
+game into the kitchen, Butchery Lite breaks it down, and Launchers And Arrows
+adds longbows, ballistae and more than ten kinds of special bolts. Vehicles
+cover three terrains - cars, sailboats and trawlers, aircraft. Kaleidoscope
+and the maid series are not included; lighter luggage travels further.
+
+    Mod list: Farmer's Delight, Chef's Delight, Nether's Delight, End's
+    Delight, Display Delight, Alex's Delight, Butchery Lite, Lite Exchange;
+    Alex's Mobs, Citadel, Launchers And Arrows; Automobility, Fish and Ships,
+    Immersive Aircraft; Biomes O' Plenty, Tectonic, Better Village,
+    TerraBlender, RoadWeaver, YUNG's Better Jungle Temples, Ocean Monuments,
+    Mineshafts, End Island, Desert Temples, Nether Fortresses, Strongholds,
+    Witch Huts and Menu Tweaks; JEI, Xaero's Minimap and World Map, Jade,
+    Forgematica, Waystones, Nature's Compass, Explorer's Compass, Traveler's
+    Titles; Sodium, Sodium Extra, Iris, Voxy, Voxy World Gen, Lithium,
+    FerriteCore, ModernFix, Dynamic FPS, EntityCulling, ImmediatelyFast,
+    MoreCulling, AllTheLeaks, PacketFixer, K Multi Threading; AmbientSounds,
+    Presence Footsteps, 3D Skin Layers, Controlling, IMBlocker, Simple Voice
+    Chat, AppleSkin, Smooth Swapping, ItemPhysic Lite, Inventory Profiles Next,
+    Mouse Tweaks, KleeSlabs, Better Climbing, Nether Portal Fix, Clumps, Tree
+    Harvester, AlwaysEat, Mod Menu, Global Packs, YungsExtras,
+    ContinuityNeoForge, DMMTTBA, durabilitytooltip, entityguardian,
+    getittogetherdrops, ok_zoomer, tweakerge, tweakable_xp_loss, NeoForgematicaPrinter,
+    oneenoughitem.
+
+    Another 22 support libraries and prerequisites sit alongside them.
+
+----------------------------------------------------------------
+Wander & Feast: Confluence
+----------------------------------------------------------------
+
+    This edition puts the content of both split editions into one world, with
+full parameters: every Biomes O' Plenty biome, Tectonic at its highest cap
+and relief, Kaleidoscope and Farmer's Delight kitchens side by side, the maid
+series and Alex series together, cars, sailboats and aircraft all available.
+It is not a good way to find out which playstyle you prefer - carrying both
+content sets at once, the rhythm keeps switching between cooking at home and
+hunting far afield, the density is higher and the tone more mixed. Its
+purpose is to give players who will not give up any content an option; the
+two split editions were cut from it.
+
+    Mod list: everything in Homesteaded and Expedition, plus the mods unique
+    to each of those editions.
+
+----------------------------------------------------------------
+Shared by all three editions
+----------------------------------------------------------------
+
+    The foundation is identical, so switching editions requires no
+relearning of controls. Rendering is carried by Sodium, Sodium Extra, Iris,
+Voxy and Voxy World Gen, with Lithium, FerriteCore, ModernFix, Dynamic FPS,
+EntityCulling, ImmediatelyFast, MoreCulling, AllTheLeaks, PacketFixer and
+K Multi Threading underneath; five shader packs ship in the shaderpacks
+folder - Bliss, BSL, Complementary Reimagined, Photon and Solas. For tools,
+JEI handles recipes, Xaero's minimap and world map handle navigation,
+Forgematica ships with nine ready-made schematics, and Waystones link bases.
+Multiplayer runs on Simple Voice Chat with no extra software. The Chinese
+translation comes as three resource packs: the base pack covers 49
+namespaces, the homestead pack 8, the expedition pack 18. Mods that already
+provide Chinese are left alone and the packs only fill the gaps; Confluence
+needs all three, the split editions two each.
+
+----------------------------------------------------------------
+Hardware
+----------------------------------------------------------------
+
+    Voxy, shaders and Voxygen are all off by default, which keeps the pack
+friendly to low-end machines. It still has a lot of headroom: if the hardware
+allows, turning all three on is recommended, and it changes the visuals
+dramatically.
+
+    Minimum
+        Quad-core CPU, 8 GB RAM (4-6 GB allocated to the game),
+        integrated graphics or entry-level discrete GPU, HDD acceptable,
+        shaders and LOD off, render distance 6-8, simulation distance 5-6.
+
+    Recommended
+        Six-core CPU or better, 16 GB RAM (6-8 GB allocated),
+        RTX 3050 or better, SSD,
+        Voxy LOD and light shaders on, render distance 10-12.
+
+    Full
+        Eight-core CPU or better, 32 GB RAM (8-10 GB allocated),
+        RTX 4060 or better, NVMe SSD,
+        Photon shaders, Voxy LOD and Voxygen all on, render distance 16 or
+        more; LOD pregeneration and terrain detail maxed, Photon clouds,
+        volumetric light and shadows fully enabled.
+
+================================================================
